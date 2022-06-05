@@ -6,3 +6,25 @@ html, body{
     height: 500px;
     width: 500px;
 }
+.header{
+    background-color: rosybrown;
+}
+.footer{
+    background-color: rosybrown;
+}
+body{
+    background-color: #e0e0e0;
+}
+*{
+    margin: 0%;
+}
+.c1{
+    background-color: rgb(132,136,139);
+    width: 50%;
+    height: 20%;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+.c2, .c3{
+    margin: 2%;
+}
